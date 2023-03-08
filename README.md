@@ -1,2 +1,3 @@
-learning new stuff
+#!/bin/bash
 how fun
+
