@@ -1,2 +1,2 @@
-#!/bin/bash
-pwd
+learning new stuff
+how fun
