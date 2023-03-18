@@ -1,1 +1,1 @@
-0x01. C - Variables
+C - Variables
